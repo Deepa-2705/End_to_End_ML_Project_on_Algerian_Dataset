@@ -1,1 +1,4 @@
 Flask
+numpy # we will write all the required libraray name here for the installation purpose  
+pandas
+scikit-learn   # to install all these open terminal (3 lines on left-> terminal->new terminal->write pip install -r requirement.txt)
