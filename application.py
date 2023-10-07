@@ -68,7 +68,7 @@ if __name__=="__main__":
 # git status
 # git commit -m "First commit"
 # git config --global user.email "deepagupta35795@gmail.com"
-# git config --global user.name "Your Name"
+# git config --global user.name "Deepa-2705"
 # git commit -m "First commit"
 # git branch -M main
 # git remote add origin https://github.com/Deepa-2705/End_to_End_ML_Project_on_Algerian_Dataset.git
