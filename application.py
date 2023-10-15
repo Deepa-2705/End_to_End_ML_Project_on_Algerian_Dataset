@@ -73,3 +73,9 @@ if __name__=="__main__":
 # git branch -M main
 # git remote add origin https://github.com/Deepa-2705/End_to_End_ML_Project_on_Algerian_Dataset.git
 # git push -u origin main
+
+# In linux we create a python environment,for creating that we need this python.config file
+# Aws configuration will be looking for application that why we have rename our file from app to application
+# write in terminal git add .
+# git commit -m "Beanstalk configuration"
+# git push -u origin main
